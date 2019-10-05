@@ -1,0 +1,23 @@
+{
+  "name": "sergei",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "saegga <sergei.muzalev94@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "Jquery": "^3.4.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
